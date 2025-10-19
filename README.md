@@ -101,6 +101,11 @@ Dự án **Collaborative Import Workflow Optimization** được thực hiện �
 
 ---
 
+## 🧾 Ghi chú
+Dự án này được thực hiện ngay sau dự án "Centralized Import Data Repository for Logistic Efficiency” nhằm tối ưu quy trình làm việc nội bộ trong quá trình mua hàng nhập khẩu của công ty.
+
+Xem dự án liên quan này: [Tại đây](https://github.com/tramdangtai/import-data-repository)
+
 ## ✉️ Tác giả
 **Tram Dang Tai**  
 📍 Merchandise Assistant Database  
